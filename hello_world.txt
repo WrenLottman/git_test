@@ -1,2 +1,5 @@
 Testing Testing Testing Testing  Testing Testing
 More Testing
+I accidentally made a second git_test folder and had to mess around with it for a bit to fix the issue I made
+It was a bit silly but tbh I felt relatively accomplished that I was able to fix the issue with just what I have learned so far and didn't screw anything up with the Odin Project Git lesson.
+Good times!
